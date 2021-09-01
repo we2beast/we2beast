@@ -41,3 +41,5 @@
 ### Github Stats
 [![Viliavin Daniil' github stats](https://github-readme-stats.vercel.app/api?username=we2beast&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+#### P.S.
+For the page layout many thanks to [Dani El-Ayyass](https://github.com/dayyass) (middle)
