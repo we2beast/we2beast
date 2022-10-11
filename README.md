@@ -14,6 +14,7 @@
 | Job Position          | Company        | Field                                     | Work Period                |
 | --------------------- | -------------- | ----------------------------------------- | -------------------------- |
 | **Backend Developer** | **Skölopendra**| **Backend, Highload, IoT**                | **01.12.2019 — until now** |
+| Backend Developer     | Teeqer         | Developer of main system.                 | 01.09.2018 — 01.12.2021    |
 | Research Assistant    | Plekhanov RUE  | Developer of Learning Managment System    | 10.02.2020 — 27.07.2021    |
 | Research Assistant    | Plekhanov RUE  | Research in DS, ML, Big Data              | 02.09.2019 — 03.09.2020    |
 
