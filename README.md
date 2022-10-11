@@ -6,9 +6,9 @@
 
 
 - **Backend Developer** at Skölopendra
-- **Master Student** at Plekhanov RUE
+- **Master Student** at MIPT
 
-**Areas of interests**: Backend, Highload, Education, Blockchain
+**Areas of interests**: Backend, Highload, Education, Blockchain, IoT
 
 ### Work experience
 | Job Position          | Company        | Field                                     | Work Period                |
@@ -18,6 +18,7 @@
 | Research Assistant    | Plekhanov RUE  | Research in DS, ML, Big Data              | 02.09.2019 — 03.09.2020    |
 
 ### Education
+- **Master’s degree** in Applied mathematics and physics at Moscow Institute of Physics and Technology (2022 - until now)
 - **Master’s degree** in Business Informatics at Plekhanov Russian University of Economics (2021 - until now)
 - **Bachelor's degree** in Computer Science at Plekhanov Russian University of Economics (2017 - 2021)<br>
 
@@ -28,6 +29,7 @@
 - **Languages**:            Kotlin, Golang, Java, SQL
 - **Frameworks/Libraries**: Spring, Gin, Corda, Micronaut
 - **DBMS**:                 PostgresQL, MongoDB, ClickHouse, Neo4j
+- **Others**:               gRPC, REST, WebSocket, Intergations
 
 ### Hackathon participation
 - Оценка качества образования и НИР @ Phystech.Genesis и Фонда целевого капитала МФТИ
